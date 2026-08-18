@@ -12,6 +12,9 @@
     <a href="https://x.com/FedeMarto02" target="_blank">
       <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
     </a>
+    <a href="https://www.instagram.com/fede_martorell/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
   </p>
 </div>
 
